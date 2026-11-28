@@ -31,5 +31,5 @@ Computer Science graduate (First Class Honours) focused on **defensive cybersecu
 -->
 ## 🤝 Connect With Me
 * 💼 **LinkedIn:** [Linkedin](https://www.linkedin.com/in/oluwatomiwa-eyinade/)
-* ✉️ **Email:** 'Oluwatomiwaeyinade@gmail.com'
+* ✉️ **Email:** oluwatomiwaeyinade@gmail.com
 <!-- * 🐙 **GitHub:** `https://github.com/your-username` -->
