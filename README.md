@@ -2,11 +2,11 @@
 **B.Sc. Computer Science Graduate | Defensive SOC & Network / IT Support**
 
 ## 📌 Professional Summary
-Computer Science graduate (First Class Honours) focused on **defensive cybersecurity (SOC alert triage, log investigation, and threat analysis)** and **network & IT systems support (VLANs, routing/switching topologies, and troubleshooting)**. Hands-on experience from virtual security and networking internships, SIEM fundamentals, and packet/log analysis labs, building clear, reproducible technical write-ups and secure networks.
+Computer Science graduate (First Class Honours) focused on **defensive cybersecurity (SOC alert triage, log investigation, and threat analysis)** and **network & IT systems support (VLANs, routing/switching topologies, and troubleshooting)**. Gaining hands-on experience from virtual security and networking internships. My work covers SIEM fundamentals, packet/log analysis labs, indicator checks, network topologies, and troubleshooting, with an emphasis on clear, reproducible technical write-ups and secure networks.
 
 ## 🧭 About Me
-* 📍 Based in **Lagos, Nigeria**, with an analytical background bridging computing, structured problem-solving, and data/ML workflows.
-* 🔍 Approach technical problems methodically—verifying evidence in logs, configs, and captures rather than guessing.
+* 📍 Based in **Lagos, Nigeria**, with an analytical background focused on practical systems, networks, and defensive security..
+* 🔍 Approach technical problems methodically, verifying evidence in logs, configs, and captures rather than guessing.
 * 🎯 Organizing practical labs, topologies, and case studies for **entry-level SOC Analyst, IT Support, and Junior Network/Systems** roles.
 
 ## 🎯 Focus Areas & Tools
@@ -20,7 +20,7 @@ Computer Science graduate (First Class Honours) focused on **defensive cybersecu
 ## 📂 Featured Projects
 
 ### 🛡️ Track 1: SOC & Defensive Security
-[soc-portfolio](https://github.com/Eyinadetomiwa/SOC-INCIDENT-REPORTS)
+[SOC-portfolio](https://github.com/Eyinadetomiwa/SOC-INCIDENT-REPORTS)-Growing portfolio of SOC and defensive security work—covering investigations, log/event checks, and write-ups—expanding with new projects
 
 
 <!-- ### 🌐 Track 2: Networking & IT Support
@@ -30,6 +30,6 @@ Computer Science graduate (First Class Honours) focused on **defensive cybersecu
 | **[System & Network Troubleshooting Notes]** | Step-by-step diagnostics, connectivity checks, and configuration guides | Windows, Linux, CLI | `Add Repo Link` | 
 -->
 ## 🤝 Connect With Me
-* 💼 **LinkedIn:** [linkedin](https://www.linkedin.com/in/oluwatomiwa-eyinade/)
+* 💼 **LinkedIn:** [Linkedin](https://www.linkedin.com/in/oluwatomiwa-eyinade/)
 * ✉️ **Email:** [Email](Oluwatomiwaeyinade@gmail.com)
 <!-- * 🐙 **GitHub:** `https://github.com/your-username` -->
