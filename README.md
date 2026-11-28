@@ -1,5 +1,5 @@
 # Hi, I'm Oluwatomiwa Eyinade
-**B.Sc. Computer Science Graduate | Defensive SOC & Network / IT Support**
+**B.Sc. Computer Science | Defensive SOC & Network / IT Support**
 
 ## 📌 Professional Summary
 Computer Science graduate (First Class Honours) focused on **defensive cybersecurity (SOC alert triage, log investigation, and threat analysis)** and **network & IT systems support (VLANs, routing/switching topologies, and troubleshooting)**. Gaining hands-on experience from virtual security and networking internships. My work covers SIEM fundamentals, packet/log analysis labs, indicator checks, network topologies, and troubleshooting, with an emphasis on clear, reproducible technical write-ups and secure networks.
@@ -20,7 +20,7 @@ Computer Science graduate (First Class Honours) focused on **defensive cybersecu
 ## 📂 Featured Projects
 
 ### 🛡️ Track 1: SOC & Defensive Security
-[SOC-portfolio](https://github.com/Eyinadetomiwa/SOC-INCIDENT-REPORTS)-Growing portfolio of SOC and defensive security work—covering investigations, log/event checks, and write-ups—expanding with new projects
+[SOC-portfolio](https://github.com/Eyinadetomiwa/SOC-INCIDENT-REPORTS) - Growing portfolio of SOC and defensive security work—covering investigations, log/event checks, and write-ups—expanding with new projects
 
 
 <!-- ### 🌐 Track 2: Networking & IT Support
@@ -31,5 +31,5 @@ Computer Science graduate (First Class Honours) focused on **defensive cybersecu
 -->
 ## 🤝 Connect With Me
 * 💼 **LinkedIn:** [Linkedin](https://www.linkedin.com/in/oluwatomiwa-eyinade/)
-* ✉️ **Email:** [Email](Oluwatomiwaeyinade@gmail.com)
+* ✉️ **Email:** 'Oluwatomiwaeyinade@gmail.com'
 <!-- * 🐙 **GitHub:** `https://github.com/your-username` -->
