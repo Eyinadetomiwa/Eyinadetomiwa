@@ -33,6 +33,6 @@ Computer Science graduate (First Class Honours) focused on **defensive cybersecu
 | **[System & Network Troubleshooting Notes]** | Step-by-step diagnostics, connectivity checks, and configuration guides | Windows, Linux, CLI | `Add Repo Link` | 
 -->
 ## 🤝 Connect With Me
-* 💼 **LinkedIn:** `https://www.linkedin.com/in/oluwatomiwa-eyinade/`
-* ✉️ **Email:** `Oluwatomiwaeyinade@gmail.com`
+* 💼 **LinkedIn:** [linkedin](https://www.linkedin.com/in/oluwatomiwa-eyinade/)
+* ✉️ **Email:** [Email](Oluwatomiwaeyinade@gmail.com)
 <!-- * 🐙 **GitHub:** `https://github.com/your-username` -->
